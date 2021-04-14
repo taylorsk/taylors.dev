@@ -1,2 +1,9 @@
 node_modules
+
+dist
+out
+
 .next
+.vercel
+
+yarn.lock
